@@ -4,7 +4,7 @@ A modern web-based **Library Management System** for managing college books, mem
 
 ## 🌐 Live Demo
 
-**[View Live Demo](YOUR_VERCEL_URL)**
+**[View Live Demo]https://cloud-library-management-system-hqs.vercel.app**
 
 > Replace `YOUR_VERCEL_URL` with the deployed application URL.
 
